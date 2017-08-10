@@ -149,6 +149,8 @@ Congratulations! Your web app should now be up and running on Heroku. Open it in
 
     :::term  
     $ heroku open
+    
+    hi team
 
 ## Use Distributed HTTP Sessions with Memcache
 
